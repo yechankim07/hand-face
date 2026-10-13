@@ -1,0 +1,9 @@
+# 가상 환경 폴더 제외
+.venv/
+venv/
+ENV/
+
+# 동영상 파일 제외
+face.mp4
+hand.mp4
+
